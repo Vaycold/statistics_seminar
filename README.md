@@ -1,7 +1,5 @@
-# Byeong Chan's PlayGround
-  - hello world! 
+# Byeong Chan's Field
+  - Hello world! 
 
-> ### _Test Board_
-  -  **Deep Learning**
-  -  **AI**
-  -  **Computer Science**
+> ### 중앙대학교 응용통계학과
+  -  Hello Everyone!
