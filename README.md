@@ -1,4 +1,5 @@
-# Byeong Chan Kim Repository
+# Byeong Chan's Repository
   - hello world! 
 
-> Test Board
+> _Test Board_
+    -  Deep Learning
